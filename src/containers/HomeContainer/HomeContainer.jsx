@@ -20,7 +20,7 @@ class HomeContainer extends Component {
           </section>
           <section className=" text-center m-4">
             <h1><Badge color="light">Are You a Driver?</Badge></h1>
-            <small className="text-light lead ">Uber, Black Cab, ViaVan, others...</small>
+            <small className="text-light lead ">Uber, Black Cab, ViaVan, Others...</small>
             <article>
               <h3 className="text-white py-3">
               Earn at least £50 extra on average monthly by offering product samples and essential items!
